@@ -992,6 +992,8 @@ ul {
         flex-direction: column;
         width: 100%;
         gap: var(--space-sm);
+        align-items: center;
+        justify-content: center;
     }
     
     .hero__cta .btn {
